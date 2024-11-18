@@ -1,4 +1,4 @@
-# ProjeroRegressaoT3
+# ProjetoRegressaoT3
 
 Grupo: 78
 
